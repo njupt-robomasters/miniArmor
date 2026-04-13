@@ -20,6 +20,6 @@
 
 ---
 
-Copyright (c) 2026 南邮邮电大学Potential战队
+Copyright (c) 2026 南京邮电大学Potential战队
 
 开源协议：CC BY-SA 4.0
